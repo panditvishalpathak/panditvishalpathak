@@ -67,6 +67,9 @@
 
 ---
 ## 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/vishal-pathak-53a496332?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 [Email](mailto:your.emailpanditvishalpathak24@gmail.com)
 - 🐦 [Twitter](https://twitter.com/YOUR_TWITTER)
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/vishal-pathak-53a496332?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
