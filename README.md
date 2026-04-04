@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/vishal-pathak-53a496332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
+  <a href="https://wa.me/919758177416" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:panditvishalpathak24@gmail.com">
